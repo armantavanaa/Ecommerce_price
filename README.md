@@ -13,4 +13,4 @@ With over 10 GB of data we tried to predict the price of ecommerce goods during 
 3. We were able to achieve an accuracy of 64.75 % by using Gradient Boosing Tree
 
 
-We wroked in a group of 3 on this project along with my friends Arman H. and Neset.
+I wroked on this project along with my friends Arman H. and Neset.
