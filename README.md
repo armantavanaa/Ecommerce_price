@@ -10,7 +10,7 @@ With over 10 GB of data we tried to predict the price of ecommerce goods during 
 ### ML models:
 1. We ran three models of Gradient Boosing Tree, Random Forest, and Linear Regression.
 2. We used accuracy as our metric to evaluate our models.
-3. We were able to achieve an accuracy of 64.75 % by using Gradient Boosing Tree
+3. We were able to achieve an r^2 of 0.647 by using Gradient Boosing Tree
 
 
 I wroked on this project along with my friends Arman H. and Neset.
